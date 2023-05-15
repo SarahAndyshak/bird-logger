@@ -17,9 +17,10 @@
 * Babel
 * Bootstrap
 
-<!-- ## Mockup
+## Mockup
 
-![mockup]() -->
+![splash page](birdlogger-splash.png)
+![detail page](bird-detail.png)
 
 ## Component Diagram
 ```
